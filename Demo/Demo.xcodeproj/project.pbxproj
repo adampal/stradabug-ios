@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 52;
+	objectVersion = 54;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -21,7 +21,7 @@
 		E226F7822AB1B7F20059D594 /* Strada in Frameworks */ = {isa = PBXBuildFile; productRef = E226F7812AB1B7F20059D594 /* Strada */; };
 		E226F7842AB1BBF30059D594 /* TurboWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E226F7832AB1BBF30059D594 /* TurboWebViewController.swift */; };
 		E226F7872AB1BE030059D594 /* WKWebViewConfiguration+App.swift in Sources */ = {isa = PBXBuildFile; fileRef = E226F7862AB1BE030059D594 /* WKWebViewConfiguration+App.swift */; };
-		E226F78A2AB1BF880059D594 /* FormComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = E226F7892AB1BF880059D594 /* FormComponent.swift */; };
+		E226F78A2AB1BF880059D594 /* HelloComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = E226F7892AB1BF880059D594 /* HelloComponent.swift */; };
 		E226F78C2AB1CE2E0059D594 /* BridgeComponent+App.swift in Sources */ = {isa = PBXBuildFile; fileRef = E226F78B2AB1CE2E0059D594 /* BridgeComponent+App.swift */; };
 		E226F78E2AB1D2C20059D594 /* MenuComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = E226F78D2AB1D2C20059D594 /* MenuComponent.swift */; };
 		E226F7902AB1D7260059D594 /* OverflowMenuComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = E226F78F2AB1D7260059D594 /* OverflowMenuComponent.swift */; };
@@ -57,7 +57,7 @@
 		CB4FB650273AE23B00119FD3 /* TurboNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TurboNavigationController.swift; sourceTree = "<group>"; };
 		E226F7832AB1BBF30059D594 /* TurboWebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TurboWebViewController.swift; sourceTree = "<group>"; };
 		E226F7862AB1BE030059D594 /* WKWebViewConfiguration+App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "WKWebViewConfiguration+App.swift"; sourceTree = "<group>"; };
-		E226F7892AB1BF880059D594 /* FormComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormComponent.swift; sourceTree = "<group>"; };
+		E226F7892AB1BF880059D594 /* HelloComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloComponent.swift; sourceTree = "<group>"; };
 		E226F78B2AB1CE2E0059D594 /* BridgeComponent+App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BridgeComponent+App.swift"; sourceTree = "<group>"; };
 		E226F78D2AB1D2C20059D594 /* MenuComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuComponent.swift; sourceTree = "<group>"; };
 		E226F78F2AB1D7260059D594 /* OverflowMenuComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverflowMenuComponent.swift; sourceTree = "<group>"; };
@@ -151,7 +151,7 @@
 			isa = PBXGroup;
 			children = (
 				E226F78B2AB1CE2E0059D594 /* BridgeComponent+App.swift */,
-				E226F7892AB1BF880059D594 /* FormComponent.swift */,
+				E226F7892AB1BF880059D594 /* HelloComponent.swift */,
 				E226F78D2AB1D2C20059D594 /* MenuComponent.swift */,
 				E226F78F2AB1D7260059D594 /* OverflowMenuComponent.swift */,
 			);
@@ -240,7 +240,7 @@
 				E226F7842AB1BBF30059D594 /* TurboWebViewController.swift in Sources */,
 				C153F03525784BEA00926D30 /* NumbersViewController.swift in Sources */,
 				C153F0082578057900926D30 /* AppDelegate.swift in Sources */,
-				E226F78A2AB1BF880059D594 /* FormComponent.swift in Sources */,
+				E226F78A2AB1BF880059D594 /* HelloComponent.swift in Sources */,
 				E226F78C2AB1CE2E0059D594 /* BridgeComponent+App.swift in Sources */,
 				CB4FB651273AE23B00119FD3 /* TurboNavigationController.swift in Sources */,
 				E226F7872AB1BE030059D594 /* WKWebViewConfiguration+App.swift in Sources */,
